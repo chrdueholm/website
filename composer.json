@@ -1,0 +1,13 @@
+{
+    "name": "chrdueholm/website",
+    "description": "www.chrdueholm.dk repo",
+    "authors": [
+        {
+            "name": "Christian Dueholm",
+            "email": "chrdueholm@gmail.com"
+        }
+    ],
+    "require": {
+        "silex/silex": "v1.1.0"
+    }
+}
